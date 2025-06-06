@@ -12,6 +12,9 @@ STEPS FOLLOWED
 <h2>2> Put key(brinng from api provider) in .env and call in index.ts</h2>
 <h2>3> Get Stream code sdk from api provide documentation  </h2>
 <h2>4> npm nstall 'sdk'  </h2>
+<h2>5> copy paste prompts and required depenedencies
+<h2>6> give call to get prompt funcvtion from idex.ts
+7>
 
 
 
